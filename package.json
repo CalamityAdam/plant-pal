@@ -1,0 +1,10 @@
+{
+  "name": "pant-pal",
+  "version": "0.1.0",
+  "description": "track your plant's watering schedule",
+  "main": "index.js",
+  "repository": "https://github.com/CalamityAdam/plant-pal",
+  "author": "Adam Sisk",
+  "license": "MIT",
+  "private": false
+}
